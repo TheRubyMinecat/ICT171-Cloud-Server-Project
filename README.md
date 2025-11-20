@@ -59,7 +59,6 @@ The stack is **pure front-end**:
 - `styles.css` — dark-themed responsive styling  
 - `app.js` — JavaScript logic for task management and localStorage  
 
-No server-side code is required beyond Nginx serving static files.
 
 ---
 
